@@ -11,3 +11,6 @@ Sample website with plenty of files for demos
 
 ##Testing
 Testing various changes with difftool
+
+##Copyright
+2023 Git.training
