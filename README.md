@@ -12,5 +12,8 @@ Sample website with plenty of files for demos
 ##Testing
 Testing various changes with difftool
 
+##How to contribute
+Please fork this repository and then issue Pull Request for review
+
 ##Copyright
 2023 Git.training
